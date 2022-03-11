@@ -8,10 +8,6 @@ void main() {
   runApp(MyApp());
 }
 
-// MaterialApp main features
-// Theme
-// navigator
-// localization
 
 class MyApp extends StatelessWidget {
   @override
